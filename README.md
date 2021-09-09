@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mika
+- 👋 Hi, I’m Latte
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C/C++, Python
 - 💞️ I’m looking to collaborate on don't know yet
