@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Latte
-- 👀 I’m interested in idk what i'm doing here
+- 👀 I’m interested in idk what i'm doing here either i'm doing game dev stuff or idek
 - 🌱 I’m currently learning C/C++, Python
 - 💞️ I’m looking to collaborate on don't know yet
 - 📫 How to reach me ...
